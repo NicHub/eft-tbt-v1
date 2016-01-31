@@ -5,7 +5,9 @@ description: > # Site internet d’Isabelle Levrat — EFT–TBT Groups
 locale: fr_FR
 # baseurl: "/efttbtgroups" # the subpath of your site, e.g. /blog/
 # url: "http://zoom-sante.com"
-url: "http://nichub.github.io/eft-tbt-v1/"
+
+baseurl: "/eft-tbt-v1" # the subpath of your site, e.g. /blog/
+url: "http://nichub.github.io/"
 
 
 # Build settings
