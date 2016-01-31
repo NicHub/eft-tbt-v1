@@ -2,9 +2,9 @@
 title: "EFT-TBT Groups"
 email: eft-tbt@gmail.com
 description: > # Site internet d’Isabelle Levrat — EFT–TBT Groups
+locale: fr_FR
 # baseurl: "/efttbtgroups" # the subpath of your site, e.g. /blog/
 # url: "http://zoom-sante.com"
-baseurl: "/"
 url: "http://nichub.github.io/eft-tbt-v1/"
 
 
